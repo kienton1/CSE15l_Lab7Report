@@ -15,3 +15,4 @@
 ![Image](CSE15l-5.png)
 **Step 9**
 <git add .><enter> This command adds all the changes in all files in the folder into the staging area. Then by using <git commit -m "change"><enter> I am able to commit the changes in the staging area to the local repository. The message "change" can be any comment. <git push origin main><enter> Then this allows for me to change from my local repository to my GitHut repoitory.
+![Image](CSE15l-6.png)
