@@ -12,3 +12,6 @@
 ![Image](CSE15l-4.png)
 **Step 8**
 <:wq> This allows for me to save the changes that I made in the file and then exit the vim editor.<./test.sh ><enter> This lets me rerun the test.sh file so that this can compile and then run the `ListExamplesTests.java`.
+![Image](CSE15l-5.png)
+**Step 9**
+<git add .><enter> This command adds all the changes in all files in the folder into the staging area. Then by using <git commit -m "change"><enter> I am able to commit the changes in the staging area to the local repository. The message "change" can be any comment. <git push origin main><enter> Then this allows for me to change from my local repository to my GitHut repoitory.
