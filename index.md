@@ -5,5 +5,6 @@
 <pwd> <cd> <rm -r lab7/> <enter> <y> <enter> <y> <enter> This allows for me to delete the git clone that was names lab7 before adding the new clone. <git clone git@github.com:kienton1/lab7.git><enter> then allows for me to clone the lab7 repository.
 ![Image](CSE15l-2.png)
 **Step 6**
-<cd lab7/> Gets me into the lab7 directory <chmod +x test.sh> allows for me to make the sh file into an executable then <./test.sh> allows for me to run the sh test.
-
+<cd lab7/><enter> Gets me into the lab7 directory <chmod +x test.sh><enter> allows for me to make the sh file into an executable then <./test.sh><enter> allows for me to run the sh test.
+![Image](CSE15l-3.png)
+<vim ListExamples.java><enter> allows for me to open up the vim editor on the ListExamples.java file. <up><up><up><right><right><right><right><right><right><right><right><right><r><2> This lets me change the error in the file by replacing a 1 with a 2.
