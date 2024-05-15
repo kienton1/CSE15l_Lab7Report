@@ -7,4 +7,8 @@
 **Step 6**
 <cd lab7/><enter> Gets me into the lab7 directory <chmod +x test.sh><enter> allows for me to make the sh file into an executable then <./test.sh><enter> allows for me to run the sh test.
 ![Image](CSE15l-3.png)
+**Step 7**
 <vim ListExamples.java><enter> allows for me to open up the vim editor on the ListExamples.java file. <up><up><up><right><right><right><right><right><right><right><right><right><r><2> This lets me change the error in the file by replacing a 1 with a 2.
+![Image](CSE15l-4.png)
+**Step 8**
+<:wq> This allows for me to save the changes that I made in the file and then exit the vim editor.<./test.sh ><enter> This lets me rerun the test.sh file so that this can compile and then run the `ListExamplesTests.java`.
